@@ -1,2 +1,2 @@
 # website
-Public website for Minworldgames.com.au
+Public website for Miniworldgames.com.au
